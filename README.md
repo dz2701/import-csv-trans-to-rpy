@@ -3,7 +3,7 @@ This assumes that you used Translator++ tools to export your translation to .csv
 <a href="https://dreamsavior.net/translator-plusplus/">Translator++<a/> is <b>NOT</b> mine or related to me in any way. 
 
 ## Usage
-Simply download from releases, and run this command
+Simply download from <a href="https://github.com/dz2701/import-csv-trans-to-rpy/releases">releases</a>, and run this command
 ```
 python3 tr++torenpy.py
 ```
