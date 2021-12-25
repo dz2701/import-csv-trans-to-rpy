@@ -1,6 +1,7 @@
 # import-csv-trans-to-rpy
 Imports translations of rpy file from csv to rpy
-This assumes that you used Translator++ tools to export your translation to .csv file.
+This assumes that you used Translator++ tools to export your translation to .csv file. 
+<a href="">Translator++<a/> is <b>NOT</b> mine or related to me in any way. 
 
 ## Usage
 Simply type 
@@ -11,7 +12,6 @@ python3 tr++torenpy.py
 in the directory with the file.
 
 ## Images
-### Initial opening
 <img src="/assets/1.png" width="500"/>
 
 By clicking on each button, you can select the appropriate file.
@@ -24,3 +24,8 @@ Once selected, you can click generate and the file would be generated in the sam
 
 <img src="/assets/4.png" width="500"/>
 
+
+## Packages 
+- pandas 
+- tkinter
+- 
