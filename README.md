@@ -20,7 +20,7 @@ By clicking on each button, you can select the appropriate file.
 
 Once selected, you can click generate and the file would be generated in the same directory.
 
-<img src="/assets/3.png width="500/>
+<img src="/assets/3.png" width="500/>
 
-<img src="/assets/4.png width="500/>
+<img src="/assets/4.png" width="500/>
 
