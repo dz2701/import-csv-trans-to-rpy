@@ -11,3 +11,5 @@ python3 tr++torenpy.py
 in the directory with the file.
 
 ## images
+### initial opening
+!(./assets/1.png)
