@@ -1,6 +1,6 @@
 # import-csv-trans-to-rpy
 This assumes that you used Translator++ tools to export your translation to .csv file. 
-<a href="">Translator++<a/> is <b>NOT</b> mine or related to me in any way. 
+<a href="https://dreamsavior.net/translator-plusplus/">Translator++<a/> is <b>NOT</b> mine or related to me in any way. 
 
 ## Usage
 Simply download from releases, and run this command
@@ -16,7 +16,7 @@ By clicking on each button, you can select the appropriate file.
 
 <img src="/assets/2.png" width="500"/>
 
-Once selected, you can click generate and the file would be generated in the same directory.
+Once selected, you can click generate and the resulting file would be generated in the same directory.
 
 <img src="/assets/3.png" width="500"/>
 
