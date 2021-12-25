@@ -3,11 +3,10 @@ This assumes that you used Translator++ tools to export your translation to .csv
 <a href="">Translator++<a/> is <b>NOT</b> mine or related to me in any way. 
 
 ## Usage
-Simply type 
+Simply download from releases, and run this command
 ```
 python3 tr++torenpy.py
 ```
-
 in the directory with the file.
 
 ## Images
@@ -24,7 +23,8 @@ Once selected, you can click generate and the file would be generated in the sam
 <img src="/assets/4.png" width="500"/>
 
 
-## Packages 
-- pandas 
-- tkinter
-- 
+## Packages used
+- Pandas 
+- Tkinter
+
+
