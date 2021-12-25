@@ -1,6 +1,5 @@
 # import-csv-trans-to-rpy
-Imports translations of rpy file from csv to rpy
-\nThis assumes that you used Translator++ tools to export your translation to .csv file. 
+This assumes that you used Translator++ tools to export your translation to .csv file. 
 <a href="">Translator++<a/> is <b>NOT</b> mine or related to me in any way. 
 
 ## Usage
