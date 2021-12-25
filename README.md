@@ -12,4 +12,5 @@ in the directory with the file.
 
 ## images
 ### initial opening
-![First Image](/assets/1.png =250x)
+<img src="/assets/1.png" width="200"/>
+
