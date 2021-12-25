@@ -12,5 +12,5 @@ in the directory with the file.
 
 ## images
 ### initial opening
-<img src="/assets/1.png" width="200"/>
+<img src="/assets/1.png" width="500"/>
 
