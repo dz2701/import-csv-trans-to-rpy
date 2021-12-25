@@ -12,4 +12,4 @@ in the directory with the file.
 
 ## images
 ### initial opening
-!(/assets/1.png)
+![First Image](/assets/1.png)
